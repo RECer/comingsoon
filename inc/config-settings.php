@@ -183,7 +183,7 @@ function seed_csp4_get_options(){
     $seed_csp4_options[ ] = array(
         "type" => "upload",
         "id" => "bg_image",
-        "desc" => "<a link='https://pixabay.com/en/photos/?cat=backgrounds' target='_blank'>Looking for FREE backgrounds?</a> Make sure to select the full size image to prevent a blurry or pixelated image.",
+        "desc" => "<a href='https://pixabay.com/en/photos/?cat=backgrounds' target='_blank'>Looking for FREE backgrounds?</a> Make sure to select the full size image to prevent a blurry or pixelated image.",
         "label" => __( "Background Image", 'coming-soon' ),
     );
 
